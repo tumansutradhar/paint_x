@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import Menu from "./components/Menu";
+import Footer from "./components/Footer";
 import "./App.css";
 
 function App() {
@@ -61,6 +62,7 @@ function App() {
 		<div className="w-full h-screen flex flex-col justify-center items-center relative bg-black">
 			<Menu setLineColor={setLineColor} setLineWidth={setLineWidth} setLineOpacity={setLineOpacity} />
 			<canvas onMouseDown={startDrawing} onMouseUp={endDrawing} onMouseMove={draw} ref={canvasRef} style={{ width: '100%', height: '100vh' }} />
+			<Footer />
 		</div>
 	);
 }
