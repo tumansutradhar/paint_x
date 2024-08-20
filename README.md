@@ -14,7 +14,7 @@ Check out the live version of PaintX [here](https://tumansutradhar-paintx.netlif
 
 ## Screenshot
 
-![PaintX Screenshot](path-to-your-image.png)
+![PaintX Screenshot](https://github.com/user-attachments/assets/c4a7d593-0f42-4340-93ae-4aedfe0a5bef)
 
 ## Technologies Used
 
