@@ -10,7 +10,7 @@ PaintX is a responsive web application for painting and drawing, built using Rea
 
 ## Live Demo
 
-Check out the live version of PaintX [here](https://tumansutradhar-paintx.netlify.app/).
+Check out the live version of PaintX [here](https://paint-x.netlify.app/).
 
 ## Screenshot
 
