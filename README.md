@@ -27,11 +27,11 @@ To run this project locally:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/PaintX.git
+   git clone https://github.com/tumansutradhar/paint_x
    ```
 2. Navigate to the project directory
    ```sh
-   cd PaintX
+   cd paint_x
    ```
 3. Install dependencies
    ```sh
