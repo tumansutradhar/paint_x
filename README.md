@@ -4,7 +4,7 @@ PaintX is a lightweight web-based drawing application built using **React, Vite,
 
 ## Demo
 
-![PaintX Demo]()
+![PaintX Demo](https://github.com/user-attachments/assets/5b14778e-e38d-4c4a-8a20-4214d8cb2d9c)
 
 ## Features
 
