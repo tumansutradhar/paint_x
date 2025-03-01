@@ -1,15 +1,1 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.menu {
-    -ms-user-select: none;
-    -webkit-user-select: none;
-    user-select: none;
-}
-
-.footer {
-    -ms-user-select: none;
-    -webkit-user-select: none;
-    user-select: none;
-}
+@import "tailwindcss";
